@@ -1,2 +1,0 @@
-# iTracker
-Created with CodeSandbox
